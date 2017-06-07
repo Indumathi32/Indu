@@ -1,0 +1,3 @@
+AMPR-SOV89-UTV15-V079P
+
+After registration, block the app via firewall.
